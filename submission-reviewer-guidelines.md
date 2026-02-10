@@ -45,13 +45,13 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 * **5 Stars:** **Community Critical.** Addresses timely and significant Cloud Native challenges (e.g., breaking version changes, critical CVEs, major ecosystem shifts) with wide-scale impact.
 
 ### 🛡️ Criterion C: Vendor Neutrality (The Integrity Gate)
-*Does this session serve the community's knowledge base or a corporate sales quota?*
+*Does this session serve the community or a corporate sales pitch?*
 
 * **1 Star (The "Sales Pitch"):** **HARD REJECT.**
-  * *Definition:* Clear focus on proprietary software without wider ecosystem value. Slides heavily index on pricing, product features, or "Book a Demo" calls to action.
+  * *Definition:* Clear focus on proprietary software without wider ecosystem value.
 * **3 Stars (The "Borderline"):** **CONDITIONAL ACCEPTANCE.**
-  * *Definition:* A valid technical problem is discussed, but the solution leans heavily heavily toward a specific commercial tool without acknowledging Open Source alternatives or architectural trade-offs.
-  * *Action:* Reviewer must request the speaker add a "Comparative Architecture" slide contextualizing the tool within the broader CNCF landscape before final acceptance.
+  * *Definition:* A valid technical problem is discussed, but the solution leans heavily toward a specific commercial tool without acknowledging Open Source alternatives.
+  * *Action:* Reviewer must request the speaker add a "Comparative Architecture" slides contextualizing the tool within the broader CNCF landscape before final acceptance.
 * **5 Stars (The "Community Standard"):** **TIER 1 QUALITY.**
   * *Definition:* Pure architectural patterns, unbiased "War Stories" (failures and successes), or deep-dives into CNCF Graduated/Incubating projects.
   * *Indicator:* The knowledge is universally transferable regardless of which vendor or cloud provider the audience utilizes.
