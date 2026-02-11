@@ -2,6 +2,8 @@
 
 **Kubernetes Austin** is the official CNCF chapter serving the Central Texas technology corridor. We are a community of practitioners—from Individual Contributors, Engineers, and Architects to CTOs and CEOs at the region’s largest engineering hubs—dedicated to the advancement of Cloud Native technologies.
 
+Whether you are navigating complex, multi-cluster architectures at an enterprise scale, or you are an engineer looking to deepen your foundational cloud-native expertise, this is your community. We are here to trade architectural war stories, solve hard production problems, and grow together in a friendly, inclusive environment. Join us to ask tough questions, share what you are building, and connect with peers.
+
 Our mission is to elevate the local ecosystem by hosting **production-grade technical talks**. We welcome speakers from all backgrounds, provided they bring engineering depth rather than sales pitches. Whether you are a global CNCF Maintainer or a local engineer with a "war story" to share, our platform is designed to share actionable knowledge.
 
 ## Our Core Values & Operating Principles
@@ -17,6 +19,11 @@ We are committed to keeping our meetups **FREE** and open to all. We believe "Ti
 ### 🤝 Community Mentorship
 
 We believe in the democratized *growth* of speakers. We don't just accept expert speakers; we build them. Our **content review process** is designed to help local engineers refine their proposals into world-class presentations through constructive feedback.
+
+---
+
+## 📜 Code of Conduct
+Kubernetes Austin is dedicated to providing a harassment-free experience for everyone. As an official chapter, we strictly adhere to the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). We expect all organizers, speakers, sponsors, and attendees to help us create a safe, inclusive, and welcoming environment for all skill levels.
 
 ---
 
