@@ -16,9 +16,15 @@ We believe in technical integrity. To protect our members' time, we prioritize d
 
 We are committed to keeping our meetups **FREE** and open to all. We believe "Tier 1" content should be accessible to everyone, regardless of budget.
 
-### 🤝 Community Mentorship
+### 🌱 Community Mentorship
 
 We believe in the democratized *growth* of speakers. We don't just accept expert speakers; we build them. Our **content review process** is designed to help local engineers refine their proposals into world-class presentations through constructive feedback.
+
+### 🤝 Transparent & Accessible Sponsorship
+We believe in an open ecosystem where startups and tech giants alike can support the community. To ensure we do not price out smaller innovators or open-source vendors, financial sponsorships are strictly at-cost to cover venue and food. Furthermore, any organization that donates space, resources, or high-quality speakers is automatically recognized as an official sponsor.
+
+### 🏛️ Democratized Operations, Governed Content
+We believe that all Kubernetes meetups should be rooted in the spirit of open source. While our **Program Committee** strictly governs session selection to maintain Tier 1 technical standards, our broader organizational operations are fully democratized. Anyone in the Cloud Native community who wants to help shape the meetup, assist with event operations, or source sponsors is welcome to join the organizing team.
 
 ---
 
