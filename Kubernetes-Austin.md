@@ -37,7 +37,7 @@ Kubernetes Austin is dedicated to providing a harassment-free experience for eve
 
 Connect with the Silicon Hills cloud native community between meetups! We collaborate on the official **CNCF Slack**, where members share architectural patterns, job opportunities, and ideas for future sessions.
 
-* **Channel:** `#austin-community-group`
+* **Channel:** [#austin-community-group](https://cloud-native.slack.com/archives/C05V6HF4F8R)
 * **Join Here:** [Get your CNCF Slack Invite](https://communityinviter.com/apps/cloud-native/cncf)
 
 ## 📢 Call for Papers: Speak at Kubernetes Austin
