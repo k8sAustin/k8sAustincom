@@ -14,7 +14,7 @@ We believe in technical integrity. To protect our members' time, we prioritize d
 
 ### 🔓 Open Access, High Standards
 
-We are committed to keeping our meetups **FREE** and open to all. We believe "Tier 1" content should be accessible to everyone, regardless of budget.
+We are committed to keeping our meetups **FREE** and open to all. We believe top tier content should be accessible to everyone, regardless of budget.
 
 ### 🌱 Community Mentorship
 
