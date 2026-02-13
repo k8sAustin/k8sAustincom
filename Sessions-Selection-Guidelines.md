@@ -42,7 +42,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 *Does the proposal demonstrate engineering rigor and coherent storytelling?*
 
 * **1 Star:** Unclear, incoherent, incomplete, or lacks a discernible thesis.
-* **2 Stars:** Somewhat relevant but poorly written; unrealistic scope (e.g., "Everything about K8s in 15 mins") or unclear takeaways.
+* **2 Stars:** Somewhat relevant but poorly written; unrealistic scope (e.g. "Everything about K8s in 15 mins") or unclear takeaways.
 * **3 Stars:** Clear and structured, but predictable. A standard format lacking unique insight or depth.
 * **4 Stars:** Well-written and coherent. Strong fit for the session format with a clear, engaging narrative arc.
 * **5 Stars:** **Highly Engaging.** Polished, high-impact audience takeaways. Demonstrates absolute mastery of the subject matter and exceptional presentation structure.
