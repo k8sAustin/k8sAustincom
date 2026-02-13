@@ -45,10 +45,8 @@ Connect with the Silicon Hills cloud native community between meetups! We collab
 Do you have a story about scaling, securing, or breaking Kubernetes?
 *We are looking for production war stories, open source deep dives, and architectural patterns.*
 
-[Submit your Proposal Here]
+👉 **[Submit your Proposal Here](http://k8sAustin.com/present)**
 
 We are now accepting technical proposals via **Sessionize**.
 
 Whether you want to **road-test your KubeCon presentation** or give your first technical talk, our Program Committee is here to support you. We pride ourselves on providing **constructive feedback** to help you polish your narrative before you take the stage.
-
-👉 **[Submit your Proposal Here](http://k8sAustin.com/present)**
