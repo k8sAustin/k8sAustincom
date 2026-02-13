@@ -55,7 +55,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 * **2 Stars:** Tangential topic or possesses very limited, isolated appeal.
 * **3 Stars:** Relevant, but addresses a narrow niche or highly specific edge case.
 * **4 Stars:** Strongly aligned with CNCF goals. Broad, immediate value to the community.
-* **5 Stars:** **Community Critical.** Addresses timely and significant Cloud Native challenges (e.g., breaking version changes, major ecosystem shifts) with wide-scale impact.
+* **5 Stars:** **Community Critical.** Addresses timely and significant Cloud Native challenges (e.g. breaking version changes, major ecosystem shifts) with wide-scale impact.
 
 
 ### 🛡️ Criterion C: [Vendor Neutrality](https://contribute.cncf.io/projects/best-practices/community/vendor-neutrality/) (The Integrity Gate)
