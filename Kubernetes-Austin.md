@@ -4,7 +4,7 @@
 
 Whether you are navigating complex, multi-cluster architectures at an enterprise scale, or you are an engineer looking to deepen your foundational cloud-native expertise, this is your community. We are here to trade architectural war stories, solve hard production problems, and grow together in a friendly, inclusive environment. Join us to ask tough questions, share what you are building, and connect with peers.
 
-Our mission is to elevate the local ecosystem by hosting **production-grade technical talks**. We welcome speakers from all backgrounds, provided they bring engineering depth rather than sales pitches. Whether you are a global CNCF Maintainer or a local engineer with a "war story" to share, our platform is designed to share actionable knowledge.
+Our mission is to elevate the local ecosystem by hosting **production-grade technical talks**. We welcome speakers from all backgrounds, provided they bring engineering depth rather than sales pitches. Whether you are a CNCF Maintainer or a local engineer with a war story to share, our platform is designed to share actionable knowledge.
 
 ## Our Core Values & Operating Principles
 
