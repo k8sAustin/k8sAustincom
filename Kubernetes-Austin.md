@@ -24,7 +24,7 @@ We believe in the democratized *growth* of speakers. We don't just accept expert
 We believe in an open ecosystem where startups and tech giants alike can support the community. To ensure we do not price out smaller innovators or open-source vendors, financial sponsorships in support of Kubernetes Austin are strictly at-cost to cover venue and food. Furthermore, any organization that donates space, resources, or high-quality speakers is automatically recognized as an official sponsor.
 
 ### 🏛️ Democratized Operations, Governed Content
-We believe that all Kubernetes meetups should be rooted in the spirit of open source. While our **Program Committee** strictly governs session selection to maintain Tier 1 technical standards, our broader organizational operations are fully democratized. Anyone in the Cloud Native community who wants to help shape the meetup, assist with event operations, or source sponsors is welcome to join.
+We believe that all Kubernetes meetups should be rooted in the spirit of open source. While our **Program Committee** strictly governs session selection to ensure the highest quality of accepted talks, our broader organizational operations are fully democratized. Anyone in the Cloud Native community who wants to help shape the meetup, assist with event operations, or source sponsors is welcome to join.
 
 ---
 
