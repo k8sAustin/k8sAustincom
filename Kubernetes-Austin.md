@@ -1,6 +1,6 @@
 # Kubernetes Austin: The Cloud Native Hub of the Silicon Hills
 
-**Kubernetes Austin** is the official CNCF chapter serving the Central Texas technology corridor. We are a community of practitioners—from Individual Contributors, Engineers, and Architects to CTOs and CEOs at the region’s largest engineering hubs—dedicated to the advancement of Cloud Native technologies.
+**Kubernetes Austin** is the official CNCF chapter serving the Central Texas technology corridor. We are a community of practitioners - from Individual Contributors, Engineers, and Architects to CTOs and CEOs at the region’s largest engineering hubs - dedicated to the advancement of Cloud Native technologies.
 
 Whether you are navigating complex, multi-cluster architectures at an enterprise scale, or you are an engineer looking to deepen your foundational cloud-native expertise, this is your community. We are here to trade architectural war stories, solve hard production problems, and grow together in a friendly, inclusive environment. Join us to ask tough questions, share what you are building, and connect with peers.
 
