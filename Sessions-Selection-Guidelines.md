@@ -41,42 +41,70 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 
 *Does the proposal demonstrate engineering rigor and coherent storytelling?*
 
-* **1 Star:** Unclear, incoherent, incomplete, or lacks a discernible thesis.
-* **2 Stars:** Somewhat relevant but poorly written; unrealistic scope (e.g. "Everything about K8s in 15 mins") or unclear takeaways.
-* **3 Stars:** Clear and structured, but predictable. A standard format lacking unique insight or depth.
-* **4 Stars:** Well-written and coherent. Strong fit for the session format with a clear, engaging narrative arc.
-* **5 Stars:** **Highly Engaging.** Polished, high-impact audience takeaways. Demonstrates absolute mastery of the subject matter and exceptional presentation structure.
+* **1 Star: Unclear, incoherent, incomplete, or lacks a discernible thesis.**
+  * *Definition:* Proposal appears unstructured, AI-generated without human review, or lacks a clear technical objective.
+  * *Action:* **AUTO-DECLINE.** The Program Chair issues a standard rejection notification.
+* **2 Stars: Somewhat relevant but poorly written; unrealistic scope or unclear takeaways.**
+  * *Definition:* The topic might be relevant, but the proposal tries to cover too much (e.g., "All of K8s Security in 15 mins") or lacks a logical flow.
+  * *Action:* **ROUTE TO MENTORSHIP.** If the *topic* is strong, the Program Chair offers feedback to narrow the scope. Otherwise, Decline.
+* **3 Stars: Clear and structured, but predictable. A standard format lacking unique insight or depth.**
+  * *Definition:* Technically correct but formulaic. Lacks novel diagrams, specific "war stories", or deep architectural analysis.
+  * *Action:* **GENERAL POOL.** Acceptable for a standard monthly slot, but not a priority.
+* **4 Stars: Well-written and coherent. Strong fit for the session format with a clear, engaging narrative arc.**
+  * *Definition:* High engineering rigor with a compelling story. Demonstrates mastery of the subject matter and clear audience takeaways.
+  * *Action:* **SHORTLIST.** High probability of acceptance for the upcoming quarter.
+* **5 Stars: **Highly Engaging.** Polished, high-impact audience takeaways. Demonstrates absolute mastery of the subject matter.**
+  * *Definition:* Exceptional presentation structure that promises to be a highlight of the year.
+  * *Action:* **PRIORITIZE.** Fast-track this session for the next available slot.
 
 ### 🎯 Criterion B: Community Relevance
 
 *Does this topic matter to the Kubernetes Austin audience right now?*
 
-* **1 Star:** Not relevant to the K8s Austin Meetup and Cloud Native. Little to no audience value.
-* **2 Stars:** Tangential topic or possesses very limited, isolated appeal.
-* **3 Stars:** Relevant, but addresses a narrow niche or highly specific edge case.
-* **4 Stars:** Strongly aligned with CNCF goals. Broad, immediate value to the community.
-* **5 Stars:** **Community Critical.** Addresses timely and significant Cloud Native challenges (e.g. breaking version changes, major ecosystem shifts) with wide-scale impact.
+* **1 Star: Not relevant to the Kubernetes Austin Meetup and Cloud Native. Little to no audience value.**
+  * *Definition:* Topic is unrelated to our charter (e.g., General coding, Crypto, unrelated SaaS) or focuses on a tool with zero local adoption.
+  * *Action:* **HARD REJECT.**
+* **2 Stars: Tangential topic or possesses very limited, isolated appeal.**
+  * *Definition:* Might be interesting to a different group, but offers little value to the specific Austin Cloud Native ecosystem.
+  * *Action:* **DECLINE.**
+* **3 Stars: Relevant, but addresses a narrow niche or highly specific edge case.**
+  * *Definition:* Valid content, but appeals to a very small subset of our members.
+  * *Action:* **RESERVE.** Keep as a backup option or pair with a broader "Headliner" talk to balance the agenda.
+* **4 Stars: Strongly aligned with CNCF goals. Broad, immediate value to the community.**
+  * *Definition:* A core topic that appeals to the majority of our member base (Engineers through Architects).
+  * *Action:* **SHORTLIST.**
+* **5 Stars: **Community Critical.** Addresses timely and significant Cloud Native challenges with wide-scale impact.**
+  * *Definition:* Topics regarding breaking version changes, major ecosystem shifts (e.g. Otel, Cilium, Platform Engineering), or critical security patterns.
+  * *Action:* **FAST TRACK.** Schedule immediately while the topic is trending.
 
 
 ### 🛡️ Criterion C: [Vendor Neutrality](https://contribute.cncf.io/projects/best-practices/community/vendor-neutrality/) (The Integrity Gate)
 
 *Does this session serve the community or is a product pitch?*
 
-* **1 Star (The "Product Pitch"):** **HARD REJECT.**
-  * *Definition:* Clear focus on proprietary software without wider ecosystem value.
-* **3 Stars (The "Borderline"):** **CONDITIONAL ACCEPTANCE.**
+* **1 Star (The "Product Pitch"):**
+  * *Definition:* Clear focus on proprietary software without wider ecosystem value. Slides index heavily on pricing, product features, or "Book a Demo" CTAs.
+  * *Action:* **HARD REJECT.**
+* **3 Stars (The "Borderline"):**
   * *Definition:* A valid technical problem is discussed, but the solution leans heavily toward a specific commercial tool without acknowledging Open Source alternatives.
-  * *Action:* Reviewer must request the speaker add a "Comparative Architecture" slides contextualizing the tool within the broader CNCF landscape before final acceptance.
-* **5 Stars (The "Community Standard"):** **TIER 1 QUALITY.**
-  * *Definition:* Pure architectural patterns, unbiased "War Stories" (failures and successes), or deep-dives into CNCF projects. Knowledge is universally transferable.
-  * *Indicator:* The knowledge is universally transferable regardless of which vendor or cloud provider the audience utilizes.
+  * *Action:* **CONDITIONAL ACCEPTANCE.** Reviewer *must* request the speaker add a "Comparative Architecture" slides contextualizing the tool within the broader CNCF landscape before final acceptance.
+* **5 Stars (The "Community Standard"):**
+  * *Definition:* Pure architectural patterns, unbiased real life Stories (failures and successes), or deep-dives into CNCF projects. Knowledge is universally transferable regardless of which vendor or cloud provider the audience utilizes.
+  * *Action:* **VALIDATED.** Cleared for scheduling.
 
 ### 🏗️ Criterion D: Architectural Impact & Scalability
+
 *Does this session address the complex, high-stakes challenges faced by the Silicon Hills enterprise ecosystem?*
 
-* **1 Star (Hobbyist):** Homelab or sandbox scale only. Excellent for personal learning, but lacks relevance to enterprise production environments.
-* **3 Stars (Mid-Market):** Applicable to startups or mid-sized clusters. Standard, out-of-the-box implementation patterns.
-* **5 Stars (Hyperscale / Enterprise Ready):** * *Definition:* Explicitly addresses high-stakes architectural challenges relevant to massive-scale, Fortune 500 environments.
+* **1 Star (Hobbyist): Homelab or sandbox scale only.**
+  * *Definition:* Excellent for personal learning, but lacks relevance to enterprise production environments (e.g., Single node Raspberry Pi clusters).
+  * *Action:* **DIVERT.** Encourage submission to a "Lightning Talk" or "Show & Tell" segment rather than a main stage slot.
+* **3 Stars (Mid-Market): Applicable to startups or mid-sized clusters.**
+  * *Definition:* Covers standard, out-of-the-box implementation patterns suitable for most standard deployments.
+  * *Action:* **STANDARD ACCEPT.** Fits well into the general rotation.
+* **5 Stars (Hyperscale / Enterprise Ready): Explicitly addresses high-stakes architectural challenges relevant to massive-scale, Fortune 500 environments.**
+  * *Definition:* Advanced topics such as multi-region federation, Zero-Trust security at scale, fleet-wide cost-optimization, or highly complex legacy migration strategies.
+  * *Action:* **PREMIER SLOT.** Flag as a potential "Headliner" to attract Senior/Lead engineering attendance.
   * *Topics:* Multi-region federation, Zero-Trust security at scale, fleet-wide cost-optimization, or highly complex legacy migration strategies.
 
 ---
