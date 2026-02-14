@@ -1,8 +1,8 @@
 # Kubernetes Austin: The Cloud Native Hub of the Silicon Hills
 
-**Kubernetes Austin** is the official CNCF chapter serving the Central Texas technology corridor. We are a community of practitioners - from Individual Contributors, Engineers, and Architects to CTOs and CEOs at the region’s largest engineering hubs - dedicated to the advancement of Cloud Native technologies.
+**Kubernetes Austin** is the official CNCF chapter serving the Central Texas technology corridor. We are a community of practitioners - from Individual Contributors and Lead Architects to the CTOs at the region’s largest engineering hubs - dedicated to the advancement of Cloud Native technologies.
 
-Whether you are navigating complex, multi-cluster architectures at an enterprise scale, or you are an engineer looking to deepen your foundational cloud-native expertise, this is your community. We are here to trade architectural war stories, solve hard production problems, and grow together in a friendly, inclusive environment. Join us to ask tough questions, share what you are building, and connect with peers.
+Whether you are navigating complex, multi-cluster architectures at an enterprise scale, or you are an engineer looking to deepen your foundational cloud-native expertise, this is your community. We are here to trade architectural insights and solve hard production problems. Our goal is to grow together in a friendly, inclusive environment where you can ask tough questions or share exactly what you are building with peers.
 
 Our mission is to elevate the local ecosystem by hosting **production-grade technical talks**. We welcome speakers from all backgrounds, provided they bring engineering depth rather than sales pitches. Whether you are a CNCF Maintainer or a local engineer with a war story to share, our platform is designed to share actionable knowledge.
 
@@ -21,10 +21,10 @@ We are committed to keeping our meetups **FREE** and open to all. We believe top
 We believe in the democratized *growth* of speakers. We don't just accept expert speakers; we build them. Our **content review process** is designed to help local engineers refine their proposals into world-class presentations through constructive feedback.
 
 ### 🤝 Transparent & Accessible Sponsorship
-We believe in an open ecosystem where startups and tech giants alike can support the community. To ensure we do not price out smaller innovators or open-source vendors, financial sponsorships in support of Kubernetes Austin are strictly at-cost to cover venue and food. Furthermore, any organization that donates space, resources, or high-quality speakers is automatically recognized as an official sponsor.
+We believe in an open ecosystem where startups and tech giants alike can support the community. To ensure we do not price out smaller innovators or open-source vendors, financial sponsorships in support of Kubernetes Austin are strictly at-cost to cover venue and food. Furthermore, any organization that donates venue space or provides high-quality speakers is automatically recognized as an official sponsor.
 
 ### 🏛️ Democratized Operations, Governed Content
-We believe that all Kubernetes meetups should be rooted in the spirit of open source. While our **Program Committee** strictly governs session selection to ensure the highest quality of accepted talks, our broader organizational operations are fully democratized. Anyone in the Cloud Native community who wants to help shape the meetup, assist with event operations, or source sponsors is welcome to join.
+We believe that all Kubernetes meetups should be rooted in the spirit of open source. While our **Program Committee** strictly governs session selection to ensure the highest quality of accepted talks, our broader organizational operations are fully democratized. Anyone in the Cloud Native community who wants to assist with event operations or source sponsors is welcome to join.
 
 ---
 
@@ -43,7 +43,7 @@ Connect with the Silicon Hills cloud native community between meetups! We collab
 ## 📢 Call for Papers: Speak at Kubernetes Austin
 
 Do you have a story about scaling, securing, or breaking Kubernetes?
-*We are looking for production war stories, open source deep dives, and architectural patterns.*
+*We are looking for real-world engineering challenges, open source deep dives, and advanced architectural patterns.*
 
 We are now accepting technical proposals via **Sessionize**.
 
