@@ -1,8 +1,8 @@
 
 # Kubernetes Austin: Technical Sessions Selection - Standards & Governance
 
-**Document Version:** 2026.02.15
-**Owner:** Program Committee & Technical Steering  
+**Document Version:** 2026.02.15 
+**Owner:** Program Committee & Technical Steering 
 **Objective:** To ensure all presentations meet the "Tier 1" quality and architectural standards required by the Silicon Hills engineering ecosystem.
 
 ---
