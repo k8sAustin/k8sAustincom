@@ -1,14 +1,14 @@
 
 # Kubernetes Austin: Technical Sessions Selection - Standards & Governance
 
-**Document Version:** 2026.02.10  
+**Document Version:** 2026.02.15
 **Owner:** Program Committee & Technical Steering  
 **Objective:** To ensure all presentations meet the "Tier 1" quality and architectural standards required by the Silicon Hills engineering ecosystem.
 
 ---
 
 ## 💡 The Philosophy: Protecting Our Community's Time
-As Central Texas grows into a major hub for enterprise cloud infrastructure, our meetup must evolve to serve everyone from junior developers to Fortune 500 Lead Architects. 
+As Central Texas grows into a major hub for enterprise cloud infrastructure, our meetup must evolve to serve everyone from junior developers to Fortune 500 Lead Architects.
 
 In the past, community events have occasionally struggled with "Trojan Horse" sales pitches or mismatched technical depths. This framework is designed to:
 1. **Protect our stage** from disguised marketing and proprietary product pitches.
