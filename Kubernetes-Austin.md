@@ -46,6 +46,7 @@ Connect with the Silicon Hills cloud native community between meetups! We collab
 ## 📢 Call for Papers: Speak at Kubernetes Austin
 
 Do you have a story about scaling, securing, braking or troubleshooting Kubernetes?
+
 *We are looking for real-world engineering challenges, open source deep dives, and advanced architectural patterns.*
 
 We are now accepting technical proposals via **Sessionize**.
