@@ -45,7 +45,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Definition:* Proposal appears unstructured, AI-generated without human review, or lacks a clear technical objective.
   * *Action:* **AUTO-DECLINE.** The Program Chair issues a standard rejection notification.
 * **2 Stars: Somewhat relevant but poorly written; unrealistic scope or unclear takeaways.**
-  * *Definition:* The topic might be relevant, but the proposal tries to cover too much (e.g., "All of K8s Security in 15 mins") or lacks a logical flow.
+  * *Definition:* The topic might be relevant, but the proposal tries to cover too much (e.g. "All of K8s Security in 15 mins") or lacks a logical flow.
   * *Action:* **ROUTE TO MENTORSHIP.** If the *topic* is strong, the Program Chair offers feedback to narrow the scope. Otherwise, Decline.
 * **3 Stars: Clear and structured, but predictable. A standard format lacking unique insight or depth.**
   * *Definition:* Technically correct but formulaic. Lacks novel diagrams, specific "war stories", or deep architectural analysis.
@@ -62,7 +62,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 *Does this topic matter to the Kubernetes Austin audience right now?*
 
 * **1 Star: Not relevant to the Kubernetes Austin Meetup and Cloud Native. Little to no audience value.**
-  * *Definition:* Topic is unrelated to our charter (e.g., General coding, Crypto, unrelated SaaS) or focuses on a tool with zero local adoption.
+  * *Definition:* Topic is unrelated to our charter (e.g. General coding, Crypto, unrelated SaaS) or focuses on a tool with zero local adoption.
   * *Action:* **HARD REJECT.**
 * **2 Stars: Tangential topic or possesses very limited, isolated appeal.**
   * *Definition:* Might be interesting to a different group, but offers little value to the specific Austin Cloud Native ecosystem.
@@ -97,7 +97,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 *Does this session address the complex, high-stakes challenges faced by the Silicon Hills enterprise ecosystem?*
 
 * **1 Star (Hobbyist): Homelab or sandbox scale only.**
-  * *Definition:* Excellent for personal learning, but lacks relevance to enterprise production environments (e.g., Single node Raspberry Pi clusters).
+  * *Definition:* Excellent for personal learning, but lacks relevance to enterprise production environments (e.g. Single node Raspberry Pi clusters).
   * *Action:* **DIVERT.** Encourage submission to a "Lightning Talk" or "Show & Tell" segment rather than a main stage slot.
 * **3 Stars (Mid-Market): Applicable to startups or mid-sized clusters.**
   * *Definition:* Covers standard, out-of-the-box implementation patterns suitable for most standard deployments.
