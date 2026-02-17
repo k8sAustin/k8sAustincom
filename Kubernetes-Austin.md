@@ -1,0 +1,56 @@
+# Kubernetes Austin: The Cloud Native Hub of the Silicon Hills
+
+**Kubernetes Austin** is the official CNCF chapter serving the Central Texas technology corridor. We are a community of practitioners, ranging from Individual Contributors and Lead Architects to the CTOs at the region’s largest engineering hubs - focused on advancing Cloud Native technologies.
+
+Whether you are navigating complex, multi-cluster architectures at an enterprise scale, or you are an engineer looking to deepen your foundational cloud-native expertise, this is your community. We are here to trade architectural insights and solve hard production problems. Our goal is to grow together in a friendly, inclusive environment where you can ask tough questions or share exactly what you are building with peers.
+
+Our mission is to elevate the local ecosystem by hosting **production-grade technical talks**. We welcome speakers from all backgrounds, provided they bring engineering depth rather than sales pitches. Whether you are a CNCF Maintainer or a local engineer with a war story to share, our platform is designed to share actionable knowledge.
+
+## Our Core Values & Operating Principles
+
+### 🛡️ [Vendor Neutral](https://contribute.cncf.io/projects/best-practices/community/vendor-neutrality/) Excellence
+
+Technical integrity is our priority. To protect our members' time, we prioritize demo-focused, architectural deep-dives over product pitches. Our Program Committee **vets every session against our technical standards** to ensure it provides high-value, transferable knowledge.
+
+### 🔓 Open Access, High Standards
+
+We are committed to keeping our meetups **FREE** and open to all. Top tier content should be accessible to everyone, regardless of budget.
+
+### 🌱 Community Mentorship
+
+We focus on the democratized *growth* of speakers. We don't just accept expert speakers; we build them. Our **content review process** is designed to help local engineers refine their proposals into world-class presentations through constructive feedback.
+
+### 🤝 Transparent & Accessible Sponsorship
+
+We foster an open ecosystem where startups and tech giants alike can support the community. To ensure we do not price out smaller innovators or open-source vendors, financial sponsorships in support of Kubernetes Austin are strictly at-cost to cover venue and food. Furthermore, any organization that donates venue space or provides high-quality speakers is automatically recognized as an official sponsor.
+
+### 🏛️ Democratized Operations, Governed Content
+
+Kubernetes meetups should be rooted in the spirit of open source. While our **Program Committee** strictly governs session selection to ensure the highest quality of accepted talks, our broader organizational operations are fully democratized. Anyone in the Cloud Native community who wants to assist with event operations or source sponsors is welcome to join.
+
+---
+
+## 📜 Code of Conduct
+
+Kubernetes Austin is dedicated to providing a harassment-free experience for everyone. As an official chapter, we strictly adhere to the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). We expect all organizers, speakers, sponsors, and attendees to help us create a safe, inclusive, and welcoming environment for all skill levels.
+
+---
+
+## 💬 Join the Discussion
+
+Connect with the Silicon Hills cloud native community between meetups! We collaborate on the official **CNCF Slack**, where members share architectural patterns, job opportunities, and ideas for future sessions.
+
+* **Channel:** [#austin-community-group](https://cloud-native.slack.com/archives/C05V6HF4F8R)
+* **Join Here:** [Get your CNCF Slack Invite](https://communityinviter.com/apps/cloud-native/cncf)
+
+## 📢 Call for Papers: Speak at Kubernetes Austin
+
+Do you have a story about scaling, securing, braking or troubleshooting Kubernetes?
+
+*We are looking for real-world engineering challenges, open source deep dives, and advanced architectural patterns.*
+
+We are now accepting technical proposals via **Sessionize**.
+
+👉 **[Submit your Proposal Here](http://k8sAustin.com/present)**
+
+Whether you want to **road-test your KubeCon presentation** or give your first technical talk, our Program Committee is here to support you. We pride ourselves on providing **constructive feedback** to help you polish your narrative before you take the stage.
