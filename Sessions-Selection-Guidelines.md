@@ -90,6 +90,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **CONDITIONAL ACCEPTANCE.** Reviewer *must* request the speaker add a "Comparative Architecture" slides contextualizing the tool within the broader CNCF landscape before final acceptance.
 * **5 Stars (The "Community Standard"):**
   * *Definition:* Pure architectural patterns, unbiased real life Stories (failures and successes), or deep-dives into CNCF projects. Knowledge is universally transferable regardless of which vendor or cloud provider the audience utilizes.
+  * *Maintainer Exception:* Deep dives into specific CNCF Graduated/Incubating projects (e.g. Cilium, ArgoCD) delivered by core maintainers are exempt from the "Comparative Architecture" requirement, provided they do not mention enterprise-only features.
   * *Action:* **VALIDATED.** Cleared for scheduling.
 
 ### 🏗️ Criterion D: Architectural Impact & Scalability
@@ -113,6 +114,9 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 
 To maintain our status as a premier hub for the CNCF community, the Program Committee will utilize the following workflow:
 
+### Governance Note: Conflict of Interest (Recusal)
+**The Recusal Rule:** If a Program Committee member submits a proposal, or if a proposal originates from their direct report or employer, they must **recuse** themselves from scoring that specific session and ask other committee members to do the evaluation to ensure impartiality.
+
 ### Phase 1: The Workflow
 1. **Initial Triage:** The designated **Program Chair** conducts a first-pass review of all incoming Sessionize submissions, scoring them against the Technical Rubric.
 2. **The Filter:** The Program Chair applies the Decision Matrix (below) to automatically filter out proprietary sales pitches and route high-potential proposals to the Mentorship track.
@@ -127,6 +131,12 @@ To maintain our status as a premier hub for the CNCF community, the Program Comm
 | **Mentorship Track** | High Potential (4-5 Stars in *Impact/Relevance*) but Low Structure (2-3 Stars in *Content Quality*). | **"Yes, if..."** Program Chair opens a dialogue offering direct architectural feedback to help the speaker refine their technical narrative. |
 | **Standard Accept** | Average > 3.0 Stars across all categories. | Added to the **Shortlist** for the full committee to review and schedule for an upcoming monthly session. |
 | **Premier Slot** | 5 Stars in both *Architectural Impact* AND *Vendor Neutrality*. | Fast-tracked and reserved for the **"Headliner"** slot to attract Senior/Lead engineering attendance. |
+
+### Phase 3: The Portfolio Balance (Final Check)
+*Before publishing the schedule, the Committee reviews the lineup to ensure diversity:*
+1.  **Track Diversity:** Ensure a healthy mix of Track A (Junior) and Track B/C (Senior/Visionary) talks across the quarter.
+2.  **Local Preference:** If two talks have identical scores, priority is given to the Austin-based speaker to foster local talent.
+3.  **Speaker Diversity:** Ensure the lineup reflects the diverse background of the Austin tech community.
 
 ---
 
