@@ -27,9 +27,12 @@ Before scoring, the Program Committee classifies each proposal into one of the f
 * **Track B: The Deep Dive (Level: Intermediate to Advanced)**
   * *Target Audience:* Senior Engineers, Site Reliability Engineers (SREs), and Architects.
   * *Focus:* Internals, advanced debugging, leveraging eBPF, complex networking, cluster security and observability.
-* **Track C: The Visionary (Novel Contributions)**
-  * *Target Audience:* Technical Leads, CTOs, and Ecosystem Innovators.
-  * *Focus:* Bold new architectural patterns, highly creative problem-solving, and advanced "Day 2" operations insights.
+* **Track C: The Visionary (The Bleeding Edge)**
+  * *Target Audience:* Advanced Practitioners and Ecosystem Innovators.
+  * *Focus:* Emerging CNCF Sandbox projects, AI/ML infrastructure, eBPF innovations, and next-generation tech.
+* **Track D: The Strategy (Leadership & Enterprise Architecture)**
+  * *Target Audience:* VPs of Engineering, CTOs, Directors, and Lead Architects.
+  * *Focus:* High-level system design, managing technical debt, enforcing compliance, mastering Kubernetes FinOps, and designing resilient enterprise platforms.
 
 ---
 
