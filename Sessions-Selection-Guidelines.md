@@ -27,9 +27,12 @@ Before scoring, the Program Committee classifies each proposal into one of the f
 * **Track B: The Deep Dive (Level: Intermediate to Advanced)**
   * *Target Audience:* Senior Engineers, Site Reliability Engineers (SREs), and Architects.
   * *Focus:* Internals, advanced debugging, leveraging eBPF, complex networking, cluster security and observability.
-* **Track C: The Visionary (Novel Contributions)**
-  * *Target Audience:* Technical Leads, CTOs, and Ecosystem Innovators.
-  * *Focus:* Bold new architectural patterns, highly creative problem-solving, and advanced "Day 2" operations insights.
+* **Track C: The Visionary (The Bleeding Edge)**
+  * *Target Audience:* Advanced Practitioners and Ecosystem Innovators.
+  * *Focus:* Emerging CNCF Sandbox projects, AI/ML infrastructure, eBPF innovations, and next-generation tech.
+* **Track D: The Strategy (Leadership & Enterprise Architecture)**
+  * *Target Audience:* VPs of Engineering, CTOs, Directors, and Lead Architects.
+  * *Focus:* High-level system design, managing technical debt, enforcing compliance, mastering Kubernetes FinOps, and designing resilient enterprise platforms.
 
 ---
 
@@ -49,7 +52,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **ROUTE TO MENTORSHIP.** If the *topic* is strong, the Program Chair offers feedback to narrow the scope. Otherwise, Decline.
 * **3 Stars: Clear and structured, but predictable. A standard format lacking unique insight or depth.**
   * *Definition:* Technically correct but formulaic. Lacks novel diagrams, specific "war stories", or deep architectural analysis.
-  * *Action:* **GENERAL POOL.** Acceptable for a standard monthly slot, but not a priority.
+  * *Action:* **STANDARD ACCEPT.** Acceptable for a standard monthly slot, but not a priority.
 * **4 Stars: Well-written and coherent. Strong fit for the session format with a clear, engaging narrative arc.**
   * *Definition:* High engineering rigor with a compelling story. Demonstrates mastery of the subject matter and clear audience takeaways.
   * *Action:* **SHORTLIST.** High probability of acceptance for the upcoming quarter.
@@ -75,7 +78,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **SHORTLIST.**
 * **5 Stars: **Community Critical.** Addresses timely and significant Cloud Native challenges with wide-scale impact.**
   * *Definition:* Topics regarding breaking version changes, major ecosystem shifts (e.g. Otel, Cilium, Platform Engineering), or critical security patterns.
-  * *Action:* **FAST TRACK.** Schedule immediately while the topic is trending.
+  * *Action:* **PRIORITIZE.** Schedule immediately while the topic is trending.
 
 
 ### 🛡️ Criterion C: [Vendor Neutrality](https://contribute.cncf.io/projects/best-practices/community/vendor-neutrality/) (The Integrity Gate)
@@ -90,6 +93,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **CONDITIONAL ACCEPTANCE.** Reviewer *must* request the speaker add a "Comparative Architecture" slides contextualizing the tool within the broader CNCF landscape before final acceptance.
 * **5 Stars (The "Community Standard"):**
   * *Definition:* Pure architectural patterns, unbiased real life Stories (failures and successes), or deep-dives into CNCF projects. Knowledge is universally transferable regardless of which vendor or cloud provider the audience utilizes.
+  * *Maintainer Exception:* Deep dives into specific CNCF Graduated/Incubating projects (e.g. Cilium, ArgoCD) delivered by core maintainers are exempt from the "Comparative Architecture" requirement, provided they do not mention enterprise-only features.
   * *Action:* **VALIDATED.** Cleared for scheduling.
 
 ### 🏗️ Criterion D: Architectural Impact & Scalability
@@ -104,7 +108,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **STANDARD ACCEPT.** Fits well into the general rotation.
 * **5 Stars (Hyperscale / Enterprise Ready): Explicitly addresses high-stakes architectural challenges relevant to massive-scale, Fortune 500 environments.**
   * *Definition:* Advanced topics such as multi-region federation, Zero-Trust security at scale, fleet-wide cost-optimization, or highly complex legacy migration strategies.
-  * *Action:* **PREMIER SLOT.** Flag as a potential "Headliner" to attract Senior/Lead engineering attendance.
+  * *Action:* **PRIORITIZE.** Flag as a potential "Headliner" to attract Senior/Lead engineering attendance.
   * *Topics:* Multi-region federation, Zero-Trust security at scale, fleet-wide cost-optimization, or highly complex legacy migration strategies.
 
 ---
@@ -112,6 +116,9 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
 ## 🔄 3. The Selection & Triage Protocol
 
 To maintain our status as a premier hub for the CNCF community, the Program Committee will utilize the following workflow:
+
+### Governance Note: Conflict of Interest (Recusal)
+**The Recusal Rule:** If a Program Committee member submits a proposal, or if a proposal originates from their direct report or employer, they must **recuse** themselves from scoring that specific session and ask other committee members to do the evaluation to ensure impartiality.
 
 ### Phase 1: The Workflow
 1. **Initial Triage:** The designated **Program Chair** conducts a first-pass review of all incoming Sessionize submissions, scoring them against the Technical Rubric.
@@ -127,6 +134,12 @@ To maintain our status as a premier hub for the CNCF community, the Program Comm
 | **Mentorship Track** | High Potential (4-5 Stars in *Impact/Relevance*) but Low Structure (2-3 Stars in *Content Quality*). | **"Yes, if..."** Program Chair opens a dialogue offering direct architectural feedback to help the speaker refine their technical narrative. |
 | **Standard Accept** | Average > 3.0 Stars across all categories. | Added to the **Shortlist** for the full committee to review and schedule for an upcoming monthly session. |
 | **Premier Slot** | 5 Stars in both *Architectural Impact* AND *Vendor Neutrality*. | Fast-tracked and reserved for the **"Headliner"** slot to attract Senior/Lead engineering attendance. |
+
+### Phase 3: The Portfolio Balance (Final Check)
+*Before publishing the schedule, the Committee reviews the lineup to ensure diversity:*
+1.  **Track Diversity:** Ensure a healthy mix. For example, Track A (Junior) and Track B/C/D (Senior/Visionary/Strategy) talks across the quarter.
+2.  **Local Preference:** If two talks have identical scores, priority is given to the Austin-based speaker to foster local talent.
+3.  **Speaker Diversity:** Ensure the lineup reflects the diverse background of the Austin tech community.
 
 ---
 
