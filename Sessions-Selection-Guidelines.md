@@ -52,7 +52,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **ROUTE TO MENTORSHIP.** If the *topic* is strong, the Program Chair offers feedback to narrow the scope. Otherwise, Decline.
 * **3 Stars: Clear and structured, but predictable. A standard format lacking unique insight or depth.**
   * *Definition:* Technically correct but formulaic. Lacks novel diagrams, specific "war stories", or deep architectural analysis.
-  * *Action:* **GENERAL POOL.** Acceptable for a standard monthly slot, but not a priority.
+  * *Action:* **STANDARD ACCEPT.** Acceptable for a standard monthly slot, but not a priority.
 * **4 Stars: Well-written and coherent. Strong fit for the session format with a clear, engaging narrative arc.**
   * *Definition:* High engineering rigor with a compelling story. Demonstrates mastery of the subject matter and clear audience takeaways.
   * *Action:* **SHORTLIST.** High probability of acceptance for the upcoming quarter.
@@ -78,7 +78,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **SHORTLIST.**
 * **5 Stars: **Community Critical.** Addresses timely and significant Cloud Native challenges with wide-scale impact.**
   * *Definition:* Topics regarding breaking version changes, major ecosystem shifts (e.g. Otel, Cilium, Platform Engineering), or critical security patterns.
-  * *Action:* **FAST TRACK.** Schedule immediately while the topic is trending.
+  * *Action:* **PRIORITIZE.** Schedule immediately while the topic is trending.
 
 
 ### 🛡️ Criterion C: [Vendor Neutrality](https://contribute.cncf.io/projects/best-practices/community/vendor-neutrality/) (The Integrity Gate)
@@ -108,7 +108,7 @@ All proposals are evaluated against four core criteria. This rigorous peer-revie
   * *Action:* **STANDARD ACCEPT.** Fits well into the general rotation.
 * **5 Stars (Hyperscale / Enterprise Ready): Explicitly addresses high-stakes architectural challenges relevant to massive-scale, Fortune 500 environments.**
   * *Definition:* Advanced topics such as multi-region federation, Zero-Trust security at scale, fleet-wide cost-optimization, or highly complex legacy migration strategies.
-  * *Action:* **PREMIER SLOT.** Flag as a potential "Headliner" to attract Senior/Lead engineering attendance.
+  * *Action:* **PRIORITIZE.** Flag as a potential "Headliner" to attract Senior/Lead engineering attendance.
   * *Topics:* Multi-region federation, Zero-Trust security at scale, fleet-wide cost-optimization, or highly complex legacy migration strategies.
 
 ---
@@ -137,7 +137,7 @@ To maintain our status as a premier hub for the CNCF community, the Program Comm
 
 ### Phase 3: The Portfolio Balance (Final Check)
 *Before publishing the schedule, the Committee reviews the lineup to ensure diversity:*
-1.  **Track Diversity:** Ensure a healthy mix of Track A (Junior) and Track B/C (Senior/Visionary) talks across the quarter.
+1.  **Track Diversity:** Ensure a healthy mix. For example, Track A (Junior) and Track B/C/D (Senior/Visionary/Strategy) talks across the quarter.
 2.  **Local Preference:** If two talks have identical scores, priority is given to the Austin-based speaker to foster local talent.
 3.  **Speaker Diversity:** Ensure the lineup reflects the diverse background of the Austin tech community.
 
