@@ -398,4 +398,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-node_modules
+
+# Claude Code (shared .claude/settings.json stays tracked)
+.claude/settings.local.json
+
+# Netlify CLI state and local env files
+.netlify/
+.env
+.env.*
