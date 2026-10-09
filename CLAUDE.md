@@ -10,7 +10,7 @@ Not an application — there is no build, test, or lint step. It backs https://k
 
 - **`_redirects`** — Netlify redirect rules; this is the whole "site". Maps short paths (`/meetup`, `/present`, `/slack`, `/youtube`, per-event slugs like `/autoscaling`, `/talos`) to external targets (ocgroups.dev event pages, Sessionize, Meetup, social profiles, Google/Typeform forms).
 - **`Sessions-Selection-Guidelines.md`** — Program Committee governance doc: track categorization (A–D), 1–5 assessment rubric, triage protocol, reviewer guidelines. Carries a `Document Version: YYYY.MM.DD` header.
-- **`README.md`** and **`Kubernetes-Austin.md`** — the chapter overview/values/CoC/CFP text. `Kubernetes-Austin.md` is currently a byte-identical copy of `README.md` minus the title/Netlify badge header. Keep them in sync or consolidate; don't edit one silently.
+- **`README.md`** — the single source for the chapter overview/values/CoC/CFP text (a duplicate `Kubernetes-Austin.md` was removed; don't reintroduce a second copy).
 - **`package.json`** — only dependency is `netlify-shortener`, exposed as `npm run shorten` (`netlify-shortener`) to add short links to `_redirects`. Run `npm install` first (`node_modules` is not committed).
 
 ## `_redirects` conventions
