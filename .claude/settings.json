@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.command // \"\"' | grep -Eq '(^|[;&|(] *)git( +-[^ ]+( +[^ ]+)?)* +commit( |$)' || exit 0\nb=$(git branch --show-current 2>/dev/null)\nif [ \"$b\" = main ] || [ \"$b\" = master ]; then\n  jq -n '{hookSpecificOutput:{hookEventName:\"PreToolUse\",permissionDecision:\"deny\",permissionDecisionReason:\"Direct commits to main are blocked in this project. Create a branch first: git switch -c feature/<change-name>\"}}'\nfi",
+            "statusMessage": "Checking branch before commit..."
+          }
+        ]
+      }
+    ]
+  }
+}
