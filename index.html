@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cloud Native Austin (formerly Kubernetes Austin)</title>
+    <meta
+      name="description"
+      content="Cloud Native Austin, formerly Kubernetes Austin, is a free, vendor-neutral community meetup for cloud native practitioners in Central Texas."
+    />
+    <meta property="og:title" content="Cloud Native Austin" />
+    <meta
+      property="og:description"
+      content="Formerly Kubernetes Austin. A free, vendor-neutral cloud native community in Central Texas."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://k8saustin.com/" />
+    <style>
+      :root {
+        --bg: #ffffff;
+        --surface: #f4f6fa;
+        --text: #1b2330;
+        --muted: #556070;
+        --border: #d8dee8;
+        --accent: #2457d6;
+        --accent-text: #ffffff;
+        color-scheme: light;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family:
+          system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+          sans-serif;
+        line-height: 1.6;
+      }
+      main,
+      footer {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 0 16px;
+      }
+      header {
+        background: var(--surface);
+        border-bottom: 1px solid var(--border);
+      }
+      .hero {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 32px 16px 48px;
+      }
+      .logo {
+        display: block;
+        width: 100%;
+        max-width: 480px;
+        height: auto;
+        margin: 0 auto 32px;
+      }
+      .eyebrow {
+        margin: 0 0 8px;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+      h1 {
+        margin: 0 0 16px;
+        font-size: clamp(2rem, 6vw, 3rem);
+        line-height: 1.15;
+      }
+      h2 {
+        margin: 0 0 12px;
+        font-size: 1.5rem;
+        line-height: 1.25;
+      }
+      h3 {
+        margin: 0 0 8px;
+        font-size: 1.05rem;
+      }
+      p {
+        margin: 0 0 16px;
+      }
+      section {
+        padding: 40px 0 8px;
+      }
+      a {
+        color: var(--accent);
+      }
+      .lead {
+        font-size: 1.15rem;
+        color: var(--muted);
+        max-width: 60ch;
+      }
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 24px;
+      }
+      .button {
+        display: inline-block;
+        padding: 10px 18px;
+        border: 1px solid var(--accent);
+        border-radius: 6px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      .button.primary {
+        background: var(--accent);
+        color: var(--accent-text);
+      }
+      .callout {
+        border-left: 4px solid var(--accent);
+        background: var(--surface);
+        padding: 16px 20px;
+        border-radius: 0 6px 6px 0;
+      }
+      .callout p:last-child {
+        margin-bottom: 0;
+      }
+      .columns {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+      @media (min-width: 640px) {
+        .columns {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+      .card {
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 16px 20px;
+      }
+      .card ul {
+        margin: 0;
+        padding-left: 20px;
+      }
+      .links {
+        list-style: none;
+        margin: 0 0 16px;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px 20px;
+      }
+      footer {
+        margin-top: 40px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+        border-top: 1px solid var(--border);
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="hero">
+        <img
+          class="logo"
+          src="/img/k8sAustin-plus-cloudnativeaustin.png"
+          width="800"
+          height="300"
+          alt="The Kubernetes Austin ATX logo plus the Cloud Native Austin logo"
+          fetchpriority="high"
+        />
+        <p class="eyebrow">Formerly Kubernetes Austin</p>
+        <h1>Cloud Native Austin</h1>
+        <p class="lead">
+          A free, vendor-neutral community for the engineers building cloud
+          native systems across Central Texas.
+        </p>
+        <div class="actions">
+          <a
+            class="button primary"
+            href="https://ocgroups.dev/cncf/group/3up7rjk"
+            >Upcoming events</a
+          >
+          <a class="button" href="https://cloudnativeaustin.com"
+            >Visit cloudnativeaustin.com</a
+          >
+          <a class="button" href="/present">Submit a talk</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="who">
+        <h2>Who we are</h2>
+        <p>
+          Cloud Native Austin is the official CNCF chapter serving the Central
+          Texas technology corridor. Our members range from individual
+          contributors and lead architects to CTOs at the region's largest
+          engineering hubs. We trade architectural insights, solve hard
+          production problems, and share what we are building in a friendly,
+          inclusive environment.
+        </p>
+        <p>
+          We host production-grade technical talks. Speakers come from all
+          backgrounds, whether CNCF maintainers or local engineers with a war
+          story, as long as they bring engineering depth instead of a sales
+          pitch.
+        </p>
+      </section>
+
+      <section id="rename">
+        <h2>Kubernetes Austin is now Cloud Native Austin</h2>
+        <div class="callout">
+          <p>
+            <strong>Same community, new name.</strong> Cloud Native Austin is
+            the new name for Kubernetes Austin. They are not two separate
+            groups.
+          </p>
+          <p>
+            Find us at our new home:
+            <a href="https://cloudnativeaustin.com">cloudnativeaustin.com</a>.
+          </p>
+        </div>
+        <p>
+          We renamed the meetup to broaden the scope of the projects and talks
+          we support. Kubernetes remains a core topic, but sessions now go
+          beyond it: observability, security, networking and eBPF, AI/ML
+          infrastructure, platform engineering, FinOps, and the wider CNCF
+          ecosystem.
+        </p>
+        <div class="columns">
+          <div class="card">
+            <h3>What changed</h3>
+            <ul>
+              <li>The name: Kubernetes Austin is now Cloud Native Austin.</li>
+              <li>
+                The scope: talks are no longer limited to Kubernetes itself.
+              </li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>What stays the same</h3>
+            <ul>
+              <li>Free, open-to-all meetups.</li>
+              <li>Vendor-neutral, demo-focused technical content.</li>
+              <li>Program Committee review and speaker mentorship.</li>
+              <li>
+                Existing k8saustin.com short links, such as
+                <a href="/present">/present</a> and
+                <a href="/meetup">/meetup</a>.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="mission">
+        <h2>Our purpose</h2>
+        <p>
+          To foster a strong community of members who will forge a new path
+          into the future of cloud native and supporting technology.
+        </p>
+      </section>
+
+      <section id="involved">
+        <h2>Get involved</h2>
+        <ul class="links">
+          <li><a href="/present">Speak at an event</a></li>
+          <li><a href="/host">Host or sponsor</a></li>
+          <li><a href="/slack">CNCF Slack</a> (#austin-community-group)</li>
+          <li><a href="/feedback">Share feedback</a></li>
+        </ul>
+        <ul class="links">
+          <li><a href="/meetup">Meetup</a></li>
+          <li><a href="/youtube">YouTube</a></li>
+          <li><a href="/linkedin">LinkedIn</a></li>
+          <li><a href="/bluesky">Bluesky</a></li>
+          <li><a href="/mastodon">Mastodon</a></li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Cloud Native Austin follows the
+        <a
+          href="https://github.com/cncf/foundation/blob/main/code-of-conduct.md"
+          >CNCF Code of Conduct</a
+        >. We expect all organizers, speakers, sponsors, and attendees to help
+        keep our events safe, inclusive, and welcoming.
+      </p>
+    </footer>
+  </body>
+</html>
